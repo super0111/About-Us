@@ -1,4 +1,9 @@
 ### Hi there 👋
+This is Steven.
+I am Full Stack developer with rich experience of React/Next Js and Node/Express/MongoDB.
+And i know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
+So i will complete the project of my customer.
+Thanks
 
 <!--
 **svendev1222/svendev1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
