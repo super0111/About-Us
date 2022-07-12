@@ -1,5 +1,5 @@
-### Hi there 👋
-This is Steven.
+### Hello. How are you? Nice to meet you 👋
+
 I am Full Stack developer with rich experience of React/Next Js and Node/Express/MongoDB.
 And i know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
 So i will complete the project of my customer.
