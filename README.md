@@ -1,8 +1,17 @@
 ### Hello. How are you? Nice to meet you 👋
 
 I am Full Stack developer with rich experience of React/Next Js and Node/Express/MongoDB.
-And i know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
-So i will complete the project of my customer.
+And I know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
+Also, I have some experience with Web3, Blockchain, Solidity, Ethereum, NFT Marketplace.
+So I will complete all project of my customer in their deadline with best results.
+
+My Contact Info: 
+  Skype: live:.cid.cbca59438f0dca4a
+  Slack: svendev1222@mail.ru
+  Telegram - @blockchain_superdev
+  Discord - SecretStar#9130
+If you are interesting me, pls ping me.
+I will be available in any time for my clients.
 Thanks
 
 <!--
