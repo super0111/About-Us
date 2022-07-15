@@ -7,7 +7,7 @@ So I will complete all project of my customer in their deadline with best result
 
 My Contact Info: 
   Skype: live:.cid.cbca59438f0dca4a
-  Slack: svendev1222@mail.ru
+  Slack: Adonis0923dev@gmail.com
   Telegram - @blockchain_superdev
   Discord - SecretStar#9130
 If you are interesting me, pls ping me.
