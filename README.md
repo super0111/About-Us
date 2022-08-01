@@ -7,8 +7,10 @@ Also, I have experience with Web3, Blockchain, Solidity, Smart Contract, Ethereu
 
 So I will complete all project of my customer in their deadline with best results.
 
-My Contact Info: 
+My Contact Info:
+
   Skype: live:.cid.cbca59438f0dca4a
+  
   Slack: Adonis0923dev@gmail.com
   
 If you are interesting me, pls ping me.
