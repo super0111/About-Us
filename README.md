@@ -2,7 +2,9 @@
 
 I am Full Stack developer with rich experience of React/Next Js and Node/Express/MongoDB.
 And I know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
+
 Also, I have experience with Web3, Blockchain, Solidity, Smart Contract, Ethereum, Staking, Swap, Trading, NFT Marketplace.
+
 So I will complete all project of my customer in their deadline with best results.
 
 My Contact Info: 
