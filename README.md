@@ -1,7 +1,7 @@
 ### Hello. How are you? Nice to meet you 👋
 
-I am Full Stack developer with rich experience of React/Next Js and Node/Express/MongoDB.
-And I know Vue and Angular Js, PHP Framework such CodeIgniter and Laravel.
+I am Full Stack developer with rich experience of Html/Css/Javascript/Typescript, React/Next Js and Node/Express/MongoDB.
+And I know Vue, Nuxt and Angular Js, PHP Framework such CodeIgniter and Laravel.
 
 Also, I have experience with Web3, Blockchain, Solidity, Smart Contract, Ethereum, Staking, Swap, Trading, NFT Marketplace.
 
