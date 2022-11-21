@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm Anton, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Solidity/C++.
+Hi. I am a senior software engineer (+7 years) who likes to work with Html/CSSJavaScript(Typescript)/React/NodeJs.....
 
 - Blockchain developer (Smart Contract/Dapp/DeFi/NFT/DAO, Bitcoin/Ethereum/BSC/Polygon/Avalanche/Harmony/Fantom/Polkadot/Kusama, Solidity/Truffle/Ganache/Hardhat/Waffle/OpenZeppelin, Web3.js/Ethers.js/Web3-react/Substrate/Polkadot-js API/Typechain/TheGraph/IPFS)
 - Web front-end developer (TypeScript/JavaScript, React.js/Next.js/Preact/Gatsby, React Native, Vue.js/Nuxt.js, Eleventy, Node.js, PWA, GraphQL, TDD)
