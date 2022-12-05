@@ -72,11 +72,3 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-karlovskiy/)](https://www.linkedin.com/in/anton-karlovskiy/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/antonkarlovskiy)](https://twitter.com/antonkarlovskiy)
-[![Open Collective](https://img.shields.io/badge/-OpenCollective-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://opencollective.com/anton-karlovskiy)](https://opencollective.com/anton-karlovskiy)
-[![web.dev](https://img.shields.io/badge/-web.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://web.dev/authors/antonkarlovskiy)](https://web.dev/authors/antonkarlovskiy/)
-[![patterns.dev](https://img.shields.io/badge/-patterns.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&link=https://www.patterns.dev/about/)](https://www.patterns.dev/about/)
