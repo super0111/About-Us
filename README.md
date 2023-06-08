@@ -16,7 +16,7 @@ These days I'm passionate about blockchain technologies and mainly focusing on S
 - 🌱 I'm currently focusing on blockchain technologies.
 - 🤔 I'm looking to help with building Dapp/DeFi/NFT/DAO products.
 - 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Smart Contract/Dapp/DeFi/NFT/DAO development.
-- 📫 How to reach me: antonkarlovskiy@outlook.com
+- 📫 How to reach me: adonis0923dev@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
 
